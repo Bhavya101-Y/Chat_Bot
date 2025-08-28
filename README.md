@@ -14,4 +14,5 @@ Easy to customize bot responses
 
 Lightweight and responsive UI
 
+<img src ="https://github.com/Bhavya101-Y/Chat_Bot/blob/master/Screenshot%202025-08-28%20194542.png?raw=true">
 
